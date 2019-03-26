@@ -1,0 +1,4 @@
+Today, 3/25/2019, what I did was learned the Command Line. 
+I downloaded term2 and started to tinker with it on VMware. 
+I also dowloaded and installed Visual Code, Node and NPM. 
+
